@@ -39,7 +39,7 @@ używających biblioteki jane-street-headers.
 
 %package devel
 Summary:	Jane Street header files - development part
-Summary(pl.UTF-8):	Pliki nagłówkowe Jane Street - cześć programistyczna
+Summary(pl.UTF-8):	Pliki nagłówkowe Jane Street - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
